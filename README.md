@@ -10,5 +10,5 @@
 
 ---
 
-## ③ Figma デザイン：バリ食堂
+## ③ Figma デザイン：バリ食堂　※製作中
 - リポジトリ：https://github.com/bari7863/figma-design-bari-shokudo.git
