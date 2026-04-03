@@ -18,12 +18,12 @@
 
 ---
 
-## ④ GAS Webアプリ：商談後追い管理
+## ④ GAS Webアプリ：商談後追い管理　※製作中
 - リポジトリ：
 
 ---
 
-## ⑤ next.js Neon PostgreSQL Webアプリ：マスタデータ
+## ⑤ next.js Neon PostgreSQL Webアプリ：マスタデータ　※製作中
 - リポジトリ：https://github.com/bari7863/master-view-app.git
 
 ---
