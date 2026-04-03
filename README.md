@@ -23,7 +23,7 @@
 
 ---
 
-## ⑤ next.js Neon PostgreSQL Webアプリ：マスタデータ　※製作中
+## ⑤ Node.js / Next.js Neon PostgreSQL Webアプリ：マスタデータ　※製作中
 - リポジトリ：https://github.com/bari7863/master-view-app.git
 
 ---
